@@ -3,6 +3,26 @@
 #EXTM3U
 
 
+
+
+#EXTINF:-1 tvg-id="JUST INFO - [Channel 80].id" tvg-logo="https://th.bing.com/th/id/OIP.bU0knxreaQXt5Lv8DNTY_wHaEK?w=3840&h=2160&rs=1&pid=ImgDetMain" group-title="LIVE YT", LIVE ADELLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1744755446/ei/lob-Z5bQCL7Qg8UP1vbI8Q0/ip/103.170.22.57/id/Oo0B2C4taGg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51442267/txs/51442265%2C51442266%2C51442267%2C51442268%2C51442269%2C51442270/hfr/1/playlist_duration/30/manifest_duration/30/bui/AccgBcNhGPxQlZnP6hV-UmVyOHNn_mjvyTgZtBKz8eLp1WabUkL80wbBuwozSpkk8eIr3P_OfvcFzGyU/spc/_S3wKuqehhqiD4ArBkAiPx7__GEp1lEerwfeDTvkj8GbhxtmeSFHne_CEuUs8XsaZefY4aPnrA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIveCT5Is2n5bsovsIwk44oum12PGVHH4IpmnMY9_rYkAiBsqM2flWY68FuMSsoW_CYwiO8TDA7Ykn0abi722wINCQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="JUST INFO - [Channel 80].id" tvg-logo="https://th.bing.com/th/id/OIP.bU0knxreaQXt5Lv8DNTY_wHaEK?w=3840&h=2160&rs=1&pid=ImgDetMain" group-title="LIVE YT", LIVE WAYANG KULIT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1744756117/ei/NYn-Z5r1OfiM3LUPjfW_gQ8/ip/103.170.22.56/id/RaNhe6FGELQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/bui/AccgBcMVzlEP2BCKhexD8LAn8fDZoIxXrs8ksWegwUl5GQHIlXdmyE3RhKeyVJAUrPUn7jLSAMDindzY/spc/_S3wKp9ZSVf9ABeE0pOOKGItRcQaS9AuCWqSE_OKzt2b6JoSQRnB2GQbXVCOm2So6VHn0wrOWg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgEUyCQntRTKDBfeSA14Ayul3vGIBblEfssLZCCmi6WCwCIQDi7a4-vQi9Q8v2uDzf--DJwNbpjRyrEPJBrAemEcyBmA%3D%3D/file/index.m3u8
+
+
+#EXTINF:-1 tvg-id="JUST INFO - [Channel 80].id" tvg-logo="https://th.bing.com/th/id/OIP.bU0knxreaQXt5Lv8DNTY_wHaEK?w=3840&h=2160&rs=1&pid=ImgDetMain" group-title="LIVE YT", LIVE NATGEO
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1744757279/ei/v43-Z5_yLImK3LUP_PP6iA0/ip/103.170.22.57/id/daqB3i9WYIY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51442271/txs/51442271%2C51442272%2C51442273%2C51442274%2C51442275/hfr/1/playlist_duration/30/manifest_duration/30/gcr/id/bui/AccgBcOMu0M0ti8PT45fm8HLt8e691lDzuq_lNJSeS1C50nOXWFlnvKTclSU6npN0N86qKrBJ2zdAg7g/spc/_S3wKmlg16I-_GiJf2iEMNlASzvCPvQRvu55Rr4LxY3vLk7wfxDDoBUz8rwl_QdWy9Fyaqhc3Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgZWf29myfw2TCiNS05VATjSB0cVllIixRI5whXhNbXB4CIFuHgIqWtA7q_Muy9PUH0L5TRH0N83rFSrqyRNqNRc7Q/file/index.m3u8
+
+
+
+
+
+
+
 NASIONAL
  
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
